@@ -2,7 +2,7 @@
 
 var facebook = true;
 
-function myFunction() {
+function changeLogo() {
     facebook = !facebook;
     if (facebook) {
         document.getElementById("logo").innerHTML = "facebook";
