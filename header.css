@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    font-family: Roboto;
+}
+
+header {
+    height: 70px;
+    color: #ffffff;
+    background-color: #3b5998;
+    padding-top: 10px;
+}
+
+.login {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 190px;
+}
+
+.logo {
+    font-weight: 900;
+    font-size: 35px;
+    letter-spacing: 0.5px;
+    padding-top: 15px;
+}
+
+table {
+    text-align-last: left;
+    font-size: 12px;
+}
+
+table input {
+   margin-right:  10px;
+}
+
+.login-btn {
+    color: #ffffff;
+    background-color: #506081;
+    border: 1px solid #413A3A;
+    padding: 3px;
+    margin: 0;
+}
+.login-btn:hover {
+    background-color: #3b5998;
+}
