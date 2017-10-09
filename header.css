@@ -16,11 +16,15 @@ header {
     padding: 0 190px;
 }
 
-.logo {
+#logo {
     font-weight: 900;
     font-size: 35px;
     letter-spacing: 0.5px;
     padding-top: 15px;
+}
+
+#logo:hover {
+    cursor: pointer;
 }
 
 table {
