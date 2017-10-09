@@ -36,6 +36,16 @@ table input {
    margin-right:  10px;
 }
 
+a.forgot {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+
+a.forgot:hover {
+    text-decoration: underline;
+}
+
 .login-btn {
     color: #ffffff;
     background-color: #506081;
@@ -43,6 +53,7 @@ table input {
     padding: 3px;
     margin: 0;
 }
+
 .login-btn:hover {
     background-color: #3b5998;
 }
